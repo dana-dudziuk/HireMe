@@ -1,0 +1,49 @@
+h1,
+h4{
+    text-align: center;
+    font-family: lobster;
+    }
+body{
+    background-color:lightgrey;
+    border: 2px dotted red;
+    background-image: url(https://colonialmarble.net/wp-content/uploads/2014/05/Arabescus%20White.jpg);
+    }
+p,
+li{
+    font-size: 22px;
+    font-family: Poiret one;
+}
+img{
+    width:180px;
+    
+    }
+
+p{
+    color:red;
+    }  
+
+.white{
+    color:white;
+    }
+.grey{
+    color:grey;
+    }
+.pink{
+    color:hotpink;
+    }
+.blue{
+    color:blue;
+    }
+.purple{
+    color:purple;
+    }
+.gif{
+    width:85px;
+    }
+.face{
+    display: block;
+    margin: 0 auto;
+    }
+
+    
+    
